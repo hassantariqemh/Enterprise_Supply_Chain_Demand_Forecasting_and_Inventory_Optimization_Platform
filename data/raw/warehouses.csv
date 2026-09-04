@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,region,capacity_units
+W001,Warehouse 1,South,46105
+W002,Warehouse 2,East,95766
+W003,Warehouse 3,West,35707
+W004,Warehouse 4,Central,41976
+W005,Warehouse 5,North,64262
+W006,Warehouse 6,South,43776

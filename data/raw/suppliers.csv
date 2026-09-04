@@ -1,0 +1,16 @@
+supplier_id,supplier_name,avg_lead_time_days,reliability_score
+S001,Roach PLC,3,0.69
+S002,"Lewis, Johnson and Bryant",27,0.92
+S003,Hess-Rogers,11,0.72
+S004,Hernandez and Sons,8,0.8
+S005,Moore and Sons,11,0.79
+S006,"Allen, Watts and Tran",3,0.65
+S007,Cruz Inc,14,0.7
+S008,Saunders-Moyer,29,0.73
+S009,Wilson and Sons,26,0.87
+S010,Sullivan-Smith,19,0.63
+S011,"Hartman, Smith and Hughes",28,0.98
+S012,"Patterson, Cooper and Wallace",9,0.79
+S013,Young Inc,19,0.66
+S014,Adams-Parker,26,0.61
+S015,Brady PLC,19,0.98

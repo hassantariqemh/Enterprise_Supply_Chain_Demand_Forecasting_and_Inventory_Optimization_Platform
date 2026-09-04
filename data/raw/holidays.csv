@@ -1,0 +1,16 @@
+date,holiday_name,demand_multiplier
+2023-01-01,New Year,1.4
+2023-03-25,Pakistan Day Sale,1.2
+2023-07-04,Summer Sale,1.3
+2023-11-25,Black Friday,2.2
+2023-12-25,Christmas,1.8
+2024-01-01,New Year,1.4
+2024-03-25,Pakistan Day Sale,1.2
+2024-07-04,Summer Sale,1.3
+2024-11-25,Black Friday,2.2
+2024-12-25,Christmas,1.8
+2025-01-01,New Year,1.4
+2025-03-25,Pakistan Day Sale,1.2
+2025-07-04,Summer Sale,1.3
+2025-11-25,Black Friday,2.2
+2025-12-25,Christmas,1.8
