@@ -1,0 +1,7 @@
+warehouse_id,total_stock,warehouse_name,region,capacity_units,utilization_pct,capacity_status
+W001,19225,Warehouse 1,South,46105,0.417,HEALTHY
+W002,32662,Warehouse 2,East,95766,0.3411,HEALTHY
+W003,24944,Warehouse 3,West,35707,0.6986,HEALTHY
+W004,19750,Warehouse 4,Central,41976,0.4705,HEALTHY
+W005,51108,Warehouse 5,North,64262,0.7953,HEALTHY
+W006,30628,Warehouse 6,South,43776,0.6997,HEALTHY
