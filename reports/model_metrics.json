@@ -1,0 +1,9 @@
+{
+  "forecast_accuracy": {
+    "model": "XGBoost",
+    "avg_mae": 3.770207166671753,
+    "avg_rmse": 5.740503360729689,
+    "avg_mape": 0.1345692600028896,
+    "accuracy_pct": 86.54
+  }
+}

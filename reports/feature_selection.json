@@ -1,0 +1,32 @@
+{
+  "full_feature_count": 34,
+  "selected_feature_count": 15,
+  "dropped_correlated_features": [
+    "quarter",
+    "day_of_year",
+    "week_of_year",
+    "sales_velocity_14d",
+    "sales_velocity_30d",
+    "dow_seasonality_index",
+    "unit_price"
+  ],
+  "selected_features": [
+    "sales_velocity_7d",
+    "day_of_week",
+    "holiday_demand_multiplier",
+    "is_holiday",
+    "discount_pct",
+    "promo_active",
+    "lifecycle_stage",
+    "month",
+    "region",
+    "units_sold_lag_1",
+    "month_seasonality_index",
+    "units_sold_lag_7",
+    "regional_demand_share",
+    "demand_volatility_7d",
+    "demand_volatility_30d"
+  ],
+  "mae_full_features": 3.9200353622436523,
+  "mae_selected_features": 4.020801067352295
+}
