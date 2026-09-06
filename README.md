@@ -45,7 +45,10 @@ ml021-demand-forecasting/
 ├── dashboard/
 │   └── app.py                  # Streamlit executive dashboard
 ├── reports/                     # SHAP plots, drift reports, feature selection, model metrics
-├── mlflow/                      # MLflow SQLite tracking backend
+├──docs/
+│   └──Deployment_Guide.pdf
+│   └──Model Evaluation Report.pdf
+│   └──Architecture_Diagram_Enterprise_Supply_Chain_Demand_Forecasting_and_Inventory_Optimization_Platform.jpg
 └── requirements.txt
 ```
 
