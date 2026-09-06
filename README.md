@@ -110,7 +110,8 @@ your `FORECAST_API_KEY`).
 | Metric | Value |
 |---|---|
 | XGBoost forecast accuracy | 86.5% (MAPE 13.4%) |
-| Best model (Bayesian-tuned) MAE | 3.82 |
+| Bayesian-tuned XGBoost MAE | 3.82
+| Baseline XGBoost MAE | 3.77
 | Total alerts generated | 156 |
 | Inter-warehouse transfer recommendations | 63 |
 | Avg stockout probability across all product-warehouse pairs | 52.7% |
